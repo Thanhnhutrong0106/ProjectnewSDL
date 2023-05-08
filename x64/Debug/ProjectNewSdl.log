@@ -1,0 +1,4 @@
+﻿  Menu.cpp
+D:\ProjectNewSdl\CommonFunc.h(92,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\ProjectNewSdl\CommonFunc.h(104,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  ProjectNewSdl.vcxproj -> D:\ProjectNewSdl\x64\Debug\ProjectNewSdl.exe
